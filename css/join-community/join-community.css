@@ -1,0 +1,26 @@
+.join-community{
+    background-color: #ffffff;
+    padding: 24px;
+}
+
+.join-community__title{
+    color: var(--cyan);
+    font-size: 1rem;
+    line-height: 32px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.join-community__subtitle{
+    color: var(--bright--yellow);
+    font-size: 0.75rem;
+    line-height: 16px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.join-community__description{
+    color: var(--grayish-blue);
+    font-size: 0.75rem;
+    line-height: 24px;
+}

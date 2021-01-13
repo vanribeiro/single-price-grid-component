@@ -1,0 +1,16 @@
+.why-us{
+    background-color: rgb(42, 178, 175, 0.8);
+    padding: 24px;
+}
+
+.why-us__title{
+    color: var(--light-gray);
+    font-size: 1rem;
+    line-height: 40px;
+}
+
+.why-us__item{
+    font-size: 0.75rem;
+    color: var(--light-gray);
+    line-height: 18px;
+}
